@@ -1,6 +1,5 @@
-# Language and Content Analysis of 'Palanca' Anthology using DS Paradigms
-### Using NLTK, NetworkX, matplotlib, seaborn, and Python / all code and data by @mortrpestl
----
+# Palancanalysis
+@mortrpestl
 
 Language analysis of the 'Palanca Series', a 16-part anthology with themes of farewell and new beginnings, using NLTK, NetworkX, Seaborn, and other analysis paradigms.
 
@@ -23,6 +22,7 @@ All rights reserved by @mortrpestl
 
 *Palanca* is a 16-piece anthology of letters that I have given out to those who have had left with me great impact, in one way or another, in an important chapter of my life. I realized that it would be fun and constructive to analyze these works to find greater insight into my writing style, as well as the subconscious connections I have written between the letters.
 
+I used this to culminate my learnings from the [University of Michigan - Applied Data Science with Python Specialization](https://www.coursera.org/account/accomplishments/specialization/I762RQFUGBSJ) course :D
 ## Software Used:
 - [Python](https://www.python.org/)
 - [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
